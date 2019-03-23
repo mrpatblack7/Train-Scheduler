@@ -1,0 +1,45 @@
+
+body{
+    background-image: url(../railway-station.jpg);
+    font-size: 25px;
+    color: white;
+    font-family: 'Acme', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.table{
+    color: black;
+    
+    
+}
+
+#add-row {
+    color:black;
+}
+
+#jumbo{
+    background: linear-gradient(to bottom, white, darkblue);
+    color: black;
+}
+
+.panel-body{
+    color : black;
+}
+
+#panel{
+    color: white;
+    
+}
+#add-train {
+    background-color: white;
+    color: black;
+}
+
+button {
+    margin-bottom: 20%;
+}
